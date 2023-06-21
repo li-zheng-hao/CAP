@@ -7,7 +7,7 @@
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <IncludeSymbols>true</IncludeSymbols>
-    <Version>7.2.0-preview1</Version>
+    <Version>7.2.0-preview2</Version>
   </PropertyGroup>
   
   <PropertyGroup>
